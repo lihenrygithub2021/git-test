@@ -4,8 +4,3 @@ Hello git! Hello git world!
 Hello git! Hello git world!
 Hello git! Hello git world!
 Hello git! Hello git world!
-Hello git! Hello git world!
-Hello git! Hello git world!
-Hello git! Hello git world!
-Hello git! Hello git world!
-Hello git! Hello git world! Second commit! Third commit!
