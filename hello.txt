@@ -2,7 +2,7 @@ Hello git! Hello git world!
 Hello git! Hello git world!
 Hello git! Hello git world!
 Hello git! Hello git world!
-Hello git! Hello git world!
+Hello git! Hello git world! Push commit!
 Hello git! Hello git world! Modify in remote repository
 Hello git! Hello git world! Master commit!
 Hello git! Hello git world! Fix-bug commit!
